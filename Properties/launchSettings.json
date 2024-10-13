@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingContest": {
+      "commandName": "Project",
+      "commandLineArgs": "--level 1"
+    }
+  }
+}
